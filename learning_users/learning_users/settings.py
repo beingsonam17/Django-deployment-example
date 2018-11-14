@@ -27,7 +27,10 @@ SECRET_KEY = 'sn2xm=l(&stq*4c8i0)x&=rtejxo&zner53q1ems7t4$#v24(6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['beingsonam17.pythonanywhere.com',
+    '.pythonanywhere.com',
+    '.googleapis.com',
+]
 
 
 # Application definition
